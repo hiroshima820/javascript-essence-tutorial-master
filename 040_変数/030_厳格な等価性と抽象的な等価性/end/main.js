@@ -8,14 +8,11 @@ let b = 1;
 
 let c = true;
 
+// console.log(b === Number(c));
 // printEquality(b, c);
 
 let e = "";
 let f = 0;
+let g = "0";
 
-// printEquality(e, f);
-
-let g = null;
-let h;
-
-printEquality(g, h);
+printEquality(g, f);
